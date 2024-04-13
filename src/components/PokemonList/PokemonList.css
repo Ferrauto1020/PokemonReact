@@ -1,0 +1,12 @@
+li {
+    list-style: none;
+    padding: 0.5rem 1rem;
+    border-bottom: 1px solid #2f2e2e;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+ul {
+    max-height: 100vh;
+    overflow: scroll;
+}
